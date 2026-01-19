@@ -16,7 +16,7 @@ It includes a sidebar, dashboard cards, and a dark/light mode toggle.
 - Responsive basic UI
 
 ## 🚀 Live Demo
-Netlify Link: (add after deployment)
+Netlify Link: (https://vaibhavassignment.netlify.app/)
 
 ## 📂 GitHub Repository
-GitHub Link: (your repo link)
+GitHub Link: (http://github.com/Vaibhav8895/vaibhav-assignment/edit/main/README.MD)
